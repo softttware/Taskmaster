@@ -5,6 +5,7 @@ require('dotenv').config();
 const categories = require('../utils/categories.json');
 const categoryData = require('../utils/categoryData.json');
 const catalogue = require('../utils/catalogue.json');
+const sheetId = process.env.spreadsheetId
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -30,7 +31,7 @@ module.exports = {
         try {
             const sheets = await initializeSheets();
             const layoutResponse = await sheets.spreadsheets.values.get({
-                spreadsheetId: process.env.spreadsheetId,
+                spreadsheetId: sheetId,
                 range: 'Totals!B5',
             });
             const layout = layoutResponse.data.values[0][0];
@@ -56,7 +57,7 @@ module.exports = {
                 }
 
                 const columnResponse = await sheets.spreadsheets.values.get({
-                    spreadsheetId: process.env.spreadsheetId,
+                    spreadsheetId: sheetId,
                     range: 'Totals!F1:Z2',
                 });
 
@@ -71,7 +72,7 @@ module.exports = {
                 }
 
                 const categoryRangeResponse = await sheets.spreadsheets.values.get({
-                    spreadsheetId: process.env.spreadsheetId,
+                    spreadsheetId: sheetId,
                     range: `Totals!B${categoryRange.start}:B${categoryRange.end}`,
                 });
 
@@ -80,7 +81,7 @@ module.exports = {
 
                 for (const { colIndex, location } of validColumns) {
                     const valuesResponse = await sheets.spreadsheets.values.get({
-                        spreadsheetId: process.env.spreadsheetId,
+                        spreadsheetId: sheetId,
                         range: `Totals!${categoryRange.start}:${categoryRange.end}`,
                     });
 
@@ -137,7 +138,7 @@ module.exports = {
                 const [catalogueItemName, itemData] = itemEntry;
                 const targetRows = itemData.rows || [itemData.row];
                 const response = await sheets.spreadsheets.values.get({
-                    spreadsheetId: process.env.spreadsheetId,
+                    spreadsheetId: sheetId,
                     range: 'Totals!B:Z',
                 });
                 const rows = response.data.values;

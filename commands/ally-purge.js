@@ -1,11 +1,12 @@
 const { SlashCommandBuilder } = require('discord.js');
+require('dotenv').config();
 
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('ally-purge')
         .setDescription('Removes all members from a specified role.'),
     async execute(interaction) {
-        const roleId = '1263871877663948901';
+        const roleId = process.env.allyId;
         const guild = interaction.guild;
 
         if (!guild) {

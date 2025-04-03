@@ -3,9 +3,9 @@ const overviewData = require('../utils/categoryDataOverview.json');
 require('dotenv').config();
 
 module.exports = (client) => {
-    const triggerChannelId = '1255987440825401479';
-    const foxholeUpdatesId = '1255994696749158473';
-    const logisticsWorkshopId = '1248863778301546556';
+    const triggerChannelId = process.env.triggerChannelId;
+    const foxholeUpdatesId = process.env.foxholeUpdatesId;
+    const logisticsWorkshopId = process.env.logisticsWorkshopId;
 
     async function checkAndSendTrainNotification(channel) {
         try {
