@@ -1,9 +1,7 @@
 const { SlashCommandBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle, ComponentType, EmbedBuilder, PermissionsBitField } = require('discord.js');
 const fs = require('fs');
 const path = require('path');
-
-// Config setup
-const config = require('../utils/config.json');
+require('dotenv').config();
 const pollDataFile = path.join(__dirname, '../utils/polls.json');
 
 // Initialize polls file if it doesn't exist
@@ -50,9 +48,9 @@ async function updateResultsMessage(client, pollData, isFinal = false) {
             return;
         }
 
-        const resultsChannel = guild.channels.cache.get(config.resultsChannelId);
+        const resultsChannel = guild.channels.cache.get(process.env.resultsChannelId);
         if (!resultsChannel) {
-            console.error(`Results channel ${config.resultsChannelId} not found in guild ${guild.id}`);
+            console.error(`Results channel ${process.env.resultsChannelId} not found in guild ${guild.id}`);
             return;
         }
 

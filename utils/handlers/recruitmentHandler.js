@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path'); 
 const { ChannelType, ThreadAutoArchiveDuration, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js');
 const { title } = require('process');
-const config = require('../config.json');
+require('dotenv').config();
 const { ticketLogChannelId } = config;
 
 module.exports = async (interaction, user, channel) => {

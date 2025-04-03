@@ -1,7 +1,7 @@
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { EmbedBuilder } = require('discord.js');
 const { initializeSheets } = require('../utils/googleSheets');
-const config = require('../utils/config.json');
+require('dotenv').config();
 const categories = require('../utils/categories.json');
 const categoryData = require('../utils/categoryData.json');
 const catalogue = require('../utils/catalogue.json');
@@ -30,7 +30,7 @@ module.exports = {
         try {
             const sheets = await initializeSheets();
             const layoutResponse = await sheets.spreadsheets.values.get({
-                spreadsheetId: config.spreadsheetId,
+                spreadsheetId: process.env.spreadsheetId,
                 range: 'Totals!B5',
             });
             const layout = layoutResponse.data.values[0][0];
@@ -56,7 +56,7 @@ module.exports = {
                 }
 
                 const columnResponse = await sheets.spreadsheets.values.get({
-                    spreadsheetId: config.spreadsheetId,
+                    spreadsheetId: process.env.spreadsheetId,
                     range: 'Totals!F1:Z2',
                 });
 
@@ -71,7 +71,7 @@ module.exports = {
                 }
 
                 const categoryRangeResponse = await sheets.spreadsheets.values.get({
-                    spreadsheetId: config.spreadsheetId,
+                    spreadsheetId: process.env.spreadsheetId,
                     range: `Totals!B${categoryRange.start}:B${categoryRange.end}`,
                 });
 
@@ -80,7 +80,7 @@ module.exports = {
 
                 for (const { colIndex, location } of validColumns) {
                     const valuesResponse = await sheets.spreadsheets.values.get({
-                        spreadsheetId: config.spreadsheetId,
+                        spreadsheetId: process.env.spreadsheetId,
                         range: `Totals!${categoryRange.start}:${categoryRange.end}`,
                     });
 
@@ -137,7 +137,7 @@ module.exports = {
                 const [catalogueItemName, itemData] = itemEntry;
                 const targetRows = itemData.rows || [itemData.row];
                 const response = await sheets.spreadsheets.values.get({
-                    spreadsheetId: config.spreadsheetId,
+                    spreadsheetId: process.env.spreadsheetId,
                     range: 'Totals!B:Z',
                 });
                 const rows = response.data.values;

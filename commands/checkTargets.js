@@ -1,6 +1,6 @@
 const { initializeSheets } = require('../utils/googleSheets');
 const overviewData = require('../utils/categoryDataOverview.json');
-const config = require('../utils/config.json');
+require('dotenv').config();
 
 module.exports = (client) => {
     const triggerChannelId = '1255987440825401479';
@@ -10,7 +10,7 @@ module.exports = (client) => {
     async function checkAndSendTrainNotification(channel) {
         try {
             const googleSheets = await initializeSheets();
-            const spreadsheetId = config.spreadsheetId;
+            const spreadsheetId = process.env.spreadsheetId;
 
             // First verify the sheet exists
             const spreadsheet = await googleSheets.spreadsheets.get({
@@ -149,7 +149,7 @@ module.exports = (client) => {
 
             try {
                 const googleSheets = await initializeSheets();
-                const spreadsheetId = config.spreadsheetId;
+                const spreadsheetId = process.env.spreadsheetId;
 
                 // First verify the Overview sheet exists
                 const spreadsheet = await googleSheets.spreadsheets.get({

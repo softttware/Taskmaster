@@ -2,9 +2,8 @@
 const { Client, GatewayIntentBits, Events, Collection, SlashCommandBuilder } = require('discord.js');
 const fs = require('fs');
 const path = require('path');
+require('dotenv').config();
 
-// Update config and logger paths
-const config = require('./utils/config.json');
 const initializeLogger = require('./utils/logger.js');
 const buttonHandler = require('./utils/handlers/buttonHandler.js');
 const updateHandler = require('./utils/handlers/hourlyUpdateHandler.js');
@@ -21,7 +20,7 @@ const client = new Client({
         GatewayIntentBits.GuildMessageReactions
     ],
 });
-const logChannelId = config.logChannelId;
+const logChannelId = process.env.logChannelId;
 const ignoredChannels = ['1304879126720548905', '1255987440825401479'];
 const ignoredUsers = ['1255599706621612174', '1295467917445697649'];
 
@@ -80,7 +79,7 @@ client.once(Events.ClientReady, async () => {
 
     const { REST } = require('@discordjs/rest');
     const { Routes } = require('discord-api-types/v9');
-    const rest = new REST({ version: '9' }).setToken(config.token);
+    const rest = new REST({ version: '9' }).setToken(process.env.token);
 
     const commands = client.commands.map(command => command.data.toJSON());
 
@@ -88,7 +87,7 @@ client.once(Events.ClientReady, async () => {
         console.log('Started refreshing application (/) commands.');
 
         await rest.put(
-            Routes.applicationGuildCommands(config.clientId, config.guildId),
+            Routes.applicationGuildCommands(process.env.clientId, process.env.guildId),
             { body: commands },
         );
 
@@ -99,7 +98,7 @@ client.once(Events.ClientReady, async () => {
 
     // Cache all members of the guild at startup
     try {
-        const guild = await client.guilds.fetch(config.guildId);
+        const guild = await client.guilds.fetch(process.env.guildId);
         await guild.members.fetch();
         console.log('All guild members have been fetched and cached.');
     } catch (error) {
@@ -115,4 +114,4 @@ client.on('ready', async () => {
     }, 5000);
 });
 
-client.login(config.token);
+client.login(process.env.token);

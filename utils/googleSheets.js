@@ -1,13 +1,13 @@
 const { GoogleAuth } = require('google-auth-library');
 const { google } = require('googleapis');
-const config = require('../utils/config.json');
+require('dotenv').config();
 
 async function initializeSheets() {
     try {
         const auth = new GoogleAuth({
             credentials: {
-                client_email: config.google.client_email,
-                private_key: config.google.private_key.replace(/\\n/g, '\n'),
+                client_email: process.env.google.client_email,
+                private_key: process.env.google.private_key.replace(/\\n/g, '\n'),
             },
             scopes: ['https://www.googleapis.com/auth/spreadsheets.readonly'],
         });

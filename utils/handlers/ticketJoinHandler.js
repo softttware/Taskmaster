@@ -1,5 +1,5 @@
 const { EmbedBuilder, ChannelType } = require('discord.js');
-const config = require('../config.json');
+require('dotenv').config();
 
 module.exports = async (interaction, identifier, messageId) => {
     const ticketId = identifier;
@@ -19,9 +19,9 @@ module.exports = async (interaction, identifier, messageId) => {
       const mentionMessage = await thread.send(`<@!${user.id}>`);
       await mentionMessage.delete();
 
-      const logChannel = await guild.channels.fetch(config.ticketLogChannelId);
+      const logChannel = await guild.channels.fetch(process.env.ticketLogChannelId);
       if (!logChannel) {
-        console.error(`Log channel not found: ${config.ticketLogChannelId}`);
+        console.error(`Log channel not found: ${process.env.ticketLogChannelId}`);
         await interaction.reply({
           content: 'Ticket log channel is not properly configured.',
           ephemeral: true,

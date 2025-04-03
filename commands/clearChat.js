@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 const { SlashCommandBuilder, PermissionFlagsBits, EmbedBuilder, Colors, AttachmentBuilder } = require('discord.js');
-const config = require('../utils/config.json');
-const logChannelId = config.logChannelId;
+require('dotenv').config();
+const logChannelId = process.env.logChannelId;
 
 module.exports = {
     data: new SlashCommandBuilder()

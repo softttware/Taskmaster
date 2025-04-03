@@ -1,10 +1,10 @@
 const { EmbedBuilder, ButtonBuilder, ButtonStyle, ChannelType, PermissionsBitField } = require('discord.js');
-const config = require('../config.json');
+require('dotenv').config();
 
 module.exports = async (interaction, identifier, messageId, threadId, reason) => {
-    const requiredRoles = config.requiredRoles; 
+    const requiredRoles = process.env.requiredRoles; 
     const memberRoles = interaction.member.roles.cache;
-    const logChannel = await interaction.guild.channels.fetch(config.ticketLogChannelId);
+    const logChannel = await interaction.guild.channels.fetch(process.env.ticketLogChannelId);
 
     const hasPermission = requiredRoles.some(roleId => memberRoles.has(roleId));
 

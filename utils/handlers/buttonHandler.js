@@ -1,5 +1,5 @@
 const { ModalBuilder, TextInputBuilder, TextInputStyle, ActionRowBuilder } = require('discord.js');
-const config = require('../config.json');
+require('dotenv').config();
 const allyVerificationHandler = require('./allyVerificationHandler');
 const recruitmentHandler = require('./recruitmentHandler');
 const ticketJoinHandler = require('./ticketJoinHandler');
@@ -12,7 +12,7 @@ module.exports = (client) => {
       const user = interaction.user;
       const channel = interaction.channel;
       const threadId = channel?.id;
-      const requiredRoles = config.requiredRoles; 
+      const requiredRoles = process.env.requiredRoles; 
       const memberRoles = interaction.member?.roles.cache || new Map();
       const hasPermission = requiredRoles.some(roleId => memberRoles.has(roleId));
 
