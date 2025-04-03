@@ -6,8 +6,8 @@ async function initializeSheets() {
     try {
         const auth = new GoogleAuth({
             credentials: {
-                client_email: process.env.google.client_email,
-                private_key: process.env.google.private_key.replace(/\\n/g, '\n'),
+                client_email: process.env.google_client_email,
+                private_key: process.env.google_private_key.replace(/\\n/g, '\n'),
             },
             scopes: ['https://www.googleapis.com/auth/spreadsheets.readonly'],
         });
