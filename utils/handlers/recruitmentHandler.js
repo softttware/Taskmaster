@@ -3,7 +3,7 @@ const path = require('path');
 const { ChannelType, ThreadAutoArchiveDuration, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js');
 const { title } = require('process');
 require('dotenv').config();
-const { ticketLogChannelId } = config;
+const ticketLogChannelId = process.env.ticketLogChannelId ;
 
 module.exports = async (interaction, user, channel) => {
     try {
