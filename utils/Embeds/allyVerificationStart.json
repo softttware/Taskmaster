@@ -1,0 +1,9 @@
+{
+    "title": "Ally Verification",
+    "description": "By clicking the button below you will begin the process of <@&1263871877663948901> Verification for this war.\n\nAlly Verification is only avaliable for the faction which we are currently playing, any other faction entries will be denied.\n\nThis role is purged every war.",
+    "thumbnail": { "url": "https://i.postimg.cc/PJNN1T6W/HM-Emblem-with-Banner-FInal.png"},
+    "color": "#8c2b2b",
+    "buttonLabel": "Start Verification",
+    "buttonStyle": "Secondary",
+    "buttonCustomId": "start_ally_verification"
+}

@@ -1,0 +1,11 @@
+{
+    "title": "Begin Recruitment Application",
+    "description": "By clicking the button you will start the recruitment application process.\n\nThis process is NOT automated, an Officer will review your application and will reach out to you afterwards regarding the verdict.",
+    "thumbnail": {
+      "url": "https://i.postimg.cc/PJNN1T6W/HM-Emblem-with-Banner-FInal.png"
+    },
+    "color": "#8c2b2b",
+    "buttonLabel": "Apply for Recruitment",
+    "buttonStyle": "Secondary",
+    "buttonCustomId": "start_recruitment"
+  }

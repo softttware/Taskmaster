@@ -1,0 +1,38 @@
+{
+    "Small Arms": {
+        "icon": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms.png"
+    },
+    "Heavy Arms": {
+        "icon": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms.png"
+    },
+    "Heavy Munitions": {
+        "icon": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyMunitions.png"
+    },
+    "Utility":{
+        "icon": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility.png"
+    },
+    "Medical":{
+        "icon": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Medical.png"
+    },
+    "Uniforms":{
+        "icon": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms.png"
+    },
+    "Vehicles (Crated)": {
+        "icon": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles.png"
+    },
+    "Structures (Crated)": {
+        "icon": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures.png"
+    },
+    "Materials":{
+        "icon": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Supplies.png"
+    },
+    "Facility Vehicles":{
+        "icon": "https://defiesm1.github.io/FoxholeLogiSheet/icons//Assembly/AssemblyStation.png"
+    },
+    "Vehicles (Uncrated)": {
+        "icon": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles.png"
+    },
+    "Structures (Uncrated)": {
+        "icon": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures.png"
+    }
+}

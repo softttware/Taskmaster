@@ -1,0 +1,1599 @@
+{
+
+    "Warden": {
+        "Booker Storm Rifle Model 838": {
+            "row": 6,
+            "nicknames": ["Booker", "Booker Storm Rifle", "Hooker", "Booker Storm Rifle Model 838"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/ARBooker.png"
+        },
+        "Aalto Storm Rifle 24": {
+            "row": 7,
+            "nicknames": ["Aalto", "Aalto Storm Rifle", "Aalto Storm Rifle 24"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/ARAalto.png"
+        },
+        "7.92mm": {
+            "row": 8,
+            "nicknames": ["7.92", "7.92mm", "Storm Rifle Ammo"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/AmmoRifle792.png"
+        },
+        "Malone MK.2": {
+            "row": 9,
+            "nicknames": ["Malone", "Malone MK.2", "Hanheld MG"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/MGMalone.png"
+        },
+        "A3 Harpa Fragmentation Grenade": {
+            "row": 10,
+            "nicknames": ["Harpa", "A3 Harpa Fragmentation Grenade", "Frag"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/GrenadeHarpa.png"
+        },
+        "Cascadier 873": {
+            "row": 11,
+            "nicknames": ["Cascadier 873", "Cascadier", "Auto Pistol"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/PistolCascadier.png"
+        },
+        "Cometa T2-9": {
+            "row": 12,
+            "nicknames": ["Cometa", "T2-9", "Cometa T2", "Revolver", "Cowboy Larp"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/PistolRevolver.png"
+        },
+        "The Hangman 757": {
+            "row": 13,
+            "nicknames": ["Hangman 757", "The Hangman", "757"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/RifleHangman.png"
+        },
+        ".44": {
+            "row": 14,
+            "nicknames": ["44", ".44", "revolver ammo"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/AmmoPistol44.png"
+        },
+        "Sampo Auto-Rifle 77": {
+            "row": 15,
+            "nicknames": ["Sampo", "Auto-Rifle", "Sampo 77"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/RifleSampo.png"
+        },
+        "Blakerow 871": {
+            "row": 16,
+            "nicknames": ["Blakerow", "871"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/RifleBlakerow.png"
+        },
+        "Clancy Cinder M3": {
+            "row": 17,
+            "nicknames": ["Clancy", "Cinder M3", "Clancy Cinder"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/RifleCinder.png"
+        },
+        "No.2B Hawthorne": {
+            "row": 18,
+            "nicknames": ["Hawthorne", "No.2B"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/RifleHawthorne.png"
+        },
+        "No.2 Loughcaster": {
+            "row": 19,
+            "nicknames": ["Loughcaster", "No.2"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/RifleLoughcaster.png"
+        },
+        "Clancy-Raca M4": {
+            "row": 20,
+            "nicknames": ["Clancy-Raca", "M4", "Clancy Raca"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/RifleSniperRaca.png"
+        },
+        "7.62mm": {
+            "row": 21,
+            "nicknames": ["7.62", "7.62mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/AmmoRifle762.png"
+        },
+        "Pillory Scatter Shotgun": {
+            "row": 22,
+            "nicknames": ["Pillory", "Shotgun", "Pillory Shotgun", "Scatter"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/Shotgun.png"
+        },
+        "Buckshot": {
+            "row": 23,
+            "nicknames": ["Buck", "Buckshot"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/AmmoBuckshot.png"
+        },
+        "No.1 “The Liar” Submachinegun": {
+            "row": 24,
+            "nicknames": ["The Liar", "No.1 Liar", "Submachinegun", "The Liar SMG"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/SMGLiar.png"
+        },
+        "Fiddler Submachine Gun Model 868": {
+            "row": 25,
+            "nicknames": ["Fiddler", "Submachine Gun", "Model 868", "Fiddler SMG"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/SMGFiddler.png"
+        },
+        "9mm": {
+            "row": 26,
+            "nicknames": ["9mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/AmmoSMG9.png"
+        },
+        "PT-815 Smoke Grenade": {
+            "row": 27,
+            "nicknames": ["PT-815", "Smoke Grenade", "PT Smoke", "Smoke"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/GrenadeSmoke.png"
+        },
+        "Green Ash Grenade": {
+            "row": 28,
+            "nicknames": ["green Ash", "Grenade", "Ash Grenade", "gas"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/GrenadeGas.png"
+        },
+        "12.7mm": {
+            "row": 29,
+            "nicknames": ["12.7", "12.7mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/AmmoMG127.png"
+        },
+        "Falias Raiding Club": {
+            "row": 31,
+            "nicknames": ["Falias", "Raiding Club", "Club"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Facility/MeleeMace.png"
+        },
+        "20 Neville Anti-Tank Rifle": {
+            "row": 32,
+            "nicknames": ["Neville", "20 Neville", "Anti-Tank Rifle"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/ATRifle.png"
+        },
+        "Booker Greyhound Model 910": {
+            "row": 33,
+            "nicknames": ["Greyhound", "Model 910", "Booker Greyhound"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Facility/ATRGreyhound.png"
+        },
+        "229 Satterley Heavy Storm Rifle": {
+            "row": 34,
+            "nicknames": ["229 Satterley", "Heavy Storm Rifle"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Facility/ATRSatterley.png"
+        },
+        "20mm": {
+            "row": 35,
+            "nicknames": ["20mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/AmmoAT20.png"
+        },
+        "Mounted Bonesaw MK.3": {
+            "row": 36,
+            "nicknames": ["Mounted Bonesaw", "Bonesaw MK.3", "Mounted MK.3"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/ATBonesawTripod.png"
+        },
+        "Bonesaw MK.3": {
+            "row": 37,
+            "nicknames": ["Bonesaw", "MK.3", "Bonesaw MK.3"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/ATBonesawHand.png"
+        },
+        "ARC/RPG": {
+            "row": 38,
+            "nicknames": ["ARC", "RPG", "ARC RPG"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/AmmoATIndirect.png"
+        },
+        "Willow’s Bane Model 845": {
+            "row": 39,
+            "nicknames": ["Willow’s Bane", "Model 845", "Willow’s Bane 845"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/FlamethrowerWilowsBane.png"
+        },
+        "Tremola Grenade GPb-1": {
+            "row": 40,
+            "nicknames": ["Tremola", "GPb-1", "Tremola Grenade"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/GrenadeTremola.png"
+        },
+        "Malone Ratcatcher MK.1": {
+            "row": 41,
+            "nicknames": ["Malone", "Ratcatcher", "Malone Ratcatcher"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/MGRatcatcher.png"
+        },
+        "30mm": {
+            "row": 42,
+            "nicknames": ["30mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/AmmoShell30.png"
+        },
+        "Cremari Mortar": {
+            "row": 43,
+            "nicknames": ["Cremari", "Mortar Tube", "Cremari Mortar", "Mortar", "Hand Mortar"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/Mortar.png"
+        },
+        "Flare Mortar Shell": {
+            "row": 44,
+            "nicknames": ["Flare Shell", "Flare Mortar"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/AmmoMortarFlare.png"
+        },
+        "Shrapnel Mortar Shell": {
+            "row": 45,
+            "nicknames": ["Shrapnel Shell", "Shrapnel Mortar"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/AmmoMortarShrapnel.png"
+        },
+        "Mortar Shell": {
+            "row": 46,
+            "nicknames": ["Mortar", "Mortar Shell"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/AmmoMortarHE.png"
+        },
+        "Incendiary Mortar Shell": {
+            "row": 47,
+            "nicknames": ["Incendiary Shell", "Incendiary Mortar"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Facility/AmmoMortarIncendiary.png"
+        },
+        "BF5 White Ash Flask Grenade": {
+            "row": 48,
+            "nicknames": ["BF5", "white ash", "Flask Grenade", "BF5 Grenade"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/GrenadeATFlask.png"
+        },
+        "Mammon 91-b": {
+            "row": 49,
+            "nicknames": ["Mammon", "91-b", "Mammon 91-b"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/GrenadeHE.png"
+        },
+        "Anti-Tank Sticky Bomb": {
+            "row": 50,
+            "nicknames": ["Sticky", "Sticky Bomb", "AT Sticky Bomb"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/GrenadeATSticky.png"
+        },
+        "Cutler Foebreaker": {
+            "row": 51,
+            "nicknames": ["Foebreaker", "Cutler Foebreaker"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/RPGFoebreaker.png"
+        },
+        "Cutler Launcher 4": {
+            "row": 52,
+            "nicknames": ["Cutler Launcher", "Launcher 4", "Cutler 4", "Cutler"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/RPGCutler.png"
+        },
+        "RPG": {
+            "row": 53,
+            "nicknames": ["RPG"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/AmmoRPG.png"
+        },
+        "B2 Varsi Anti-Tank Grenade": {
+            "row": 54,
+            "nicknames": ["B2 Varsi", "Varsi", "Varsi Grenade"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/GrenadeATVarsi.png"
+        },
+        "150mm": {
+            "row": 56,
+            "nicknames": ["150", "150mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyMunitions/AmmoShell150.png"
+        },
+        "120mm": {
+            "row": 57,
+            "nicknames": ["120", "120mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyMunitions/AmmoShell120.png"
+        },
+        "250mm": {
+            "row": 58,
+            "nicknames": ["250", "250mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyMunitions/AmmoShell250.png"
+        },
+        "94.5mm": {
+            "row": 59,
+            "nicknames": ["94.5", "94.5mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Facility/AmmoShell945.png"
+        },
+        "75mm": {
+            "row": 60,
+            "nicknames": ["75", "75mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Facility/AmmoShell75.png"
+        },
+        "68mm": {
+            "row": 61,
+            "nicknames": ["68", "68mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyMunitions/AmmoShell68.png"
+        },
+        "40mm": {
+            "row": 62,
+            "nicknames": ["40", "40mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyMunitions/AmmoShell40.png"
+        },
+        "Barbed Wire": {
+            "row": 64,
+            "nicknames": ["barbed wire"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityBarbedWire.png"
+        },
+        "Binoculars": {
+            "row": 65,
+            "nicknames": ["binos", "binocs", "binoculars"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityBinoculars.png"
+        },
+        "Havoc Charge": {
+            "row": 66,
+            "nicknames": ["havoc charge", "havoc"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityHavocCharge.png"
+        },
+        "Willow's Bane Ammo": {
+            "row": 67,
+            "nicknames": ["flamethrower ammo", "willow's bane ammo"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/AmmoFlamethrowerWilowsBane.png"
+        },
+        "Listening Kit": {
+            "row": 68,
+            "nicknames": ["LK", "listening kit"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityListeningKit.png"
+        },
+        "Metal Beam": {
+            "row": 69,
+            "nicknames": ["metal beam"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityMetalBeam.png"
+        },
+        "Radio Backpack": {
+            "row": 70,
+            "nicknames": ["radio backpack", "backpack"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityRadioBackpack.png"
+        },
+        "Sandbag": {
+            "row": 71,
+            "nicknames": ["sandbag"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilitySandbag.png"
+        },
+        "Havoc Charge Detonator": {
+            "row": 72,
+            "nicknames": ["havoc charge detonator", "havoc detonator", "detonator"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityHavocDetonator.png"
+        },
+        "Alligator Charge": {
+            "row": 73,
+            "nicknames": ["alligator charge", "satchel"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilitySatchel.png"
+        },
+        "Shovel": {
+            "row": 74,
+            "nicknames": ["shovel"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityShovel.png"
+        },
+        "Sledge Hammer": {
+            "row": 75,
+            "nicknames": ["sledge", "hammer", "sledge hammer"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilitySledgeHammer.png"
+        },
+        "Abisme AT-99": {
+            "row": 76,
+            "nicknames": ["Abisme AT-99", "mine", "landmine", "land mine", "AT Mine"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityATMine.png"
+        },
+        "Crow's Foot Mine": {
+            "row": 77,
+            "nicknames": ["Crow's Foot Mine", "Anti-Infantry Mine", "AI Mine", "Infantry Mine", "AP Mine"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityInfantryMine.png"
+        },
+        "Tripod": {
+            "row": 78,
+            "nicknames": ["tripod"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityTripod.png"
+        },
+        "Windsock": {
+            "row": 79,
+            "nicknames": ["windsock"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityWindSock.png"
+        },
+        "Wrench": {
+            "row": 80,
+            "nicknames": ["wrench"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityWrench.png"
+        },
+        "Water Bucket": {
+            "row": 81,
+            "nicknames": ["bucket", "Water Bucket"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityBucket.png"
+        },
+        "Buckhorn CCQ-18": {
+            "row": 82,
+            "nicknames": ["Buckhorn", "CCQ-18", "Bayonet", "Bayo"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityBayonet.png"
+        },
+        "Gas Mask": {
+            "row": 83,
+            "nicknames": ["Gasmask", "Gas Mask"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityGasMask.png"
+        },
+        "Gas Mask Filter": {
+            "row": 84,
+            "nicknames": ["Gas Mask Filter", "Filters", "Filter"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityGasFilter.png"
+        },
+        "The Ospreay": {
+            "row": 85,
+            "nicknames": ["The Ospreay", "Ospreay"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityOspreay.png"
+        },
+        "Radio": {
+            "row": 86,
+            "nicknames": ["radio"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityRadio.png"
+        },
+        "Bandages": {
+            "row": 88,
+            "nicknames": ["Bandage", "Bandages"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Medical/MedicalBandages.png"
+        },
+        "First Aid Kit": {
+            "row": 89,
+            "nicknames": ["First Aid", "First Aid Kit"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Medical/MedicalAidKit.png"
+        },
+        "Trauma Kit": {
+            "row": 90,
+            "nicknames": ["Trauma", "Trauma Kit"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Medical/MedicalTraumaKit.png"
+        },
+        "Blood Plasma": {
+            "row": 91,
+            "nicknames": ["Plasma", "Blood Plasma"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Medical/MedicalPlasma.png"
+        },
+        "Soldier Supplies": {
+            "row": 92,
+            "nicknames": ["Supplies", "Soldier Supplies", "shirts"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Medical/MedicalSoldierSupplies.png"
+        },
+        "Specialist’s Overcoat": {
+            "row": 94,
+            "nicknames": ["Specialist's Overcoat", "sepcialist", "Overcoat", "rocket uni", "specialist overcoat"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms/UniformAmmoOvercoat.png"
+        },
+        "Gunner’s Breastplate": {
+            "row": 95,
+            "nicknames": ["kight", "armor", "Gunner's Breastplate", "Gunners Breastplate", "knight armor", "breastplate"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms/UniformArmourBreastplate.png"
+        },
+        "Sapper Gear": {
+            "row": 96,
+            "nicknames": ["sapper gear", "sapper", "egineer uni", "engi"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms/UniformEngineerGear.png"
+        },
+        "Physician’s Jacket": {
+            "row": 97,
+            "nicknames": ["Physician’s Jacket", "physicians jacket", "physician", "medic uniform", "medic uni"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms/UniformMedicJacket.png"
+        },
+        "Officer’s Regalia": {
+            "row": 98,
+            "nicknames": ["Officer’s Regalia", "larp uni", "larp uniform", "officers regalia", "regalia", "officer uniform"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms/UniformOfficerRegalia.png"
+        },
+        "Outrider’s Mantle": {
+            "row": 99,
+            "nicknames": ["Outrider’s Mantle", "Outriders", "partisan uniform", "partisan uni", "partisan"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms/UniformScoutMantle.png"
+        },
+        "Caoivish Parka": {
+            "row": 100,
+            "nicknames": ["parka", "caovish parka"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms/UniformSnowParka.png"
+        },
+        "Padded Boiler Suit": {
+            "row": 101,
+            "nicknames": ["Padded Boiler Suit", "Padded boiler", "boiler", "tanker uniform"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms/UniformTankSuit.png"
+        },
+        "Dunne Responder 3e": {
+            "rows": [103, 177],
+            "nicknames": ["Dunne Responder 3e", "responder", "ambulance", "Dunne Responder"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/TruckAmbulanceResponder.png"
+        },
+        "O’Brien v.190 Knave": {
+            "rows": [104, 178],
+            "nicknames": ["O’Brien v.190 Knave", "O’Brien v.190", "Knave", "GAC"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/ACGrenade.png"
+        },
+        "O’Brien V.110": {
+            "rows": [105, 179],
+            "nicknames": ["O’Brien v.110", "AC", "Armored Car"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/ACMGW.png"
+        },
+        "Dunne Caravaner 2f": {
+            "rows": [106, 180],
+            "nicknames": ["Bus", "Dunne Caravaner 2f"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/TruckBusCaravaner.png"
+        },
+        "Noble Widow MK. XIV": {
+            "rows": [107, 181],
+            "nicknames": ["HTD", "widow", "Noble Widow MK. XIV"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/TankDestroyerHeavy.png"
+        },
+        "Collins Cannon 68mm": {
+            "rows": [108, 182],
+            "nicknames": ["Collins Cannon 68mm", "collins cannon", "FAT", "Field AT Gun"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/FieldAntiTankCollins.png"
+        },
+        "Balfour Wolfhound 40mm": {
+            "rows": [109, 183],
+            "nicknames": ["Balfour Wolfhound 40mm", "Wolfhound", "field cannon"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/FieldCannon.png"
+        },
+        "Swallowtail 988/127-2": {
+            "rows": [110, 184],
+            "nicknames": ["FMG", "swallowtail", "Swallowtail 988/127-2"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/FieldMachinegunSwallowtail.png"
+        },
+        "Balfour Falconer 250mm": {
+            "rows": [111, 185],
+            "nicknames": ["Push 250", "Field Mortar", "Falconer", "Balfour Falconer 250mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/FieldMortar.png"
+        },
+        "BMS - Packmule Flatbed": {
+            "rows": [112, 186],
+            "nicknames": ["Flatbed", "Packmule"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/TruckFlatbed.png"
+        },
+        "Niska Mk. I Gun Motor Carriage": {
+            "rows": [113, 187],
+            "nicknames": ["Niska Mk. I Gun Motor Carriage", "Half Track", "HT"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/HalfTrackNiska.png"
+        },
+        "Mulloy LPC": {
+            "rows": [114, 188],
+            "nicknames": ["Mulloy LPC", "Mulloy", "LPC"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/APCMulloy.png"
+        },
+        "Devitt Mk. III": {
+            "rows": [115, 189],
+            "nicknames": ["Devitt Mk. III", "Devitt", "Light Tank", "LT"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/LightTankDevitt.png"
+        },
+        "Gallagher Brigand Mk. I": {
+            "rows": [116, 190],
+            "nicknames": ["Brigand", "Gallagher Brigand Mk. I", "Gallagher Mk. I"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/CruiserTankBrigand.png"
+        },
+        "Silverhand - Mk. IV": {
+            "rows": [117, 191],
+            "nicknames": ["Silverhand - Mk IV", "Silverhand", "SVH"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/AssaultTankSilverhand.png"
+        },
+        "Kivela Power Wheel 80-1": {
+            "rows": [118, 192],
+            "nicknames": ["Motorcycle", "Bike", "Kivela Power Wheel 80-1"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/MotorcycleKivela.png"
+        },
+        "Dunne Fuelrunner 2d": {
+            "rows": [119, 193],
+            "nicknames": ["Fuelrunner", "Dunne Fuelrunner", "2d", "Dunne Fuelrunner 2d"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/TruckFuelFuelrunner.png"
+        },
+        "Rooster - Junkwagon": {
+            "rows": [120, 194],
+            "nicknames": ["Junkwagon", "scrap wagon"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/TrailerResource.png"
+        },
+        "King Spire Mk. I": {
+            "rows": [121, 195],
+            "nicknames": ["King Spire Mk. I", "King Spire", "Spire", "Scout Tank"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/ScoutTankSpire.png"
+        },
+        "Drummond 100a": {
+            "rows": [122, 196],
+            "nicknames": ["LUV", "Drummond", "100a"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/LightUtilityVehicleDrummond.png"
+        },
+        "Dunne Loadlugger 3c": {
+            "rows": [123, 197],
+            "nicknames": ["Dump Truck", "Loadlugger", "3c", "Dunne Loadlugger", "Dunne Loadlugger 3c"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/TruckDumpLoadlugger.png"
+        },
+        "Dunne Transport": {
+            "rows": [124, 198],
+            "nicknames": ["Logi truck", "truck", "Dunne Transport"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/TruckDunne.png"
+        },
+        "BMS - Aquatipper": {
+            "rows": [125, 199],
+            "nicknames": ["barge", "aquatipper"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/ShipBarge.png"
+        },
+        "BMS - Ironship": {
+            "rows": [126, 200],
+            "nicknames": ["freigher", "ironship"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/ShipFreighter.png"
+        },
+        "74b-1 Ronan Gunship": {
+            "rows": [127, 202],
+            "nicknames": ["gunboat", "gb", "74b-1", "Ronan"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/ShipGunboatRonan.png"
+        },
+        "BMS - Class 2 Mobile Auto-Crane": {
+            "rows": [128, 203],
+            "nicknames": ["Crane", "auto-crane"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/Crane.png"
+        },
+        "BMS - Universal Assembly Rig": {
+            "rows": [129, 204],
+            "nicknames": ["CV", "construction vehicle", "assembly rig"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/ConstructionVehicle.png"
+        },
+        "Concrete Mixer": {
+            "rows": [131, 205],
+            "nicknames": ["mixer", "concrete mixer"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures/ConcreteMixer.png"
+        },
+        "Leary Shellbore 68mm": {
+            "rows": [132, 206],
+            "nicknames": ["EAT", "shellbore", "Leary Shellbore 68mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures/EmplacedAntiTank68.png"
+        },
+        "Huber Exalt 150mm": {
+            "rows": [133, 207],
+            "nicknames": ["Exalt", "150 gun", "Huber Exalt 150mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures/ArtilleryExalt.png"
+        },
+        "Leary Snare Trap 127": {
+            "rows": [134, 208],
+            "nicknames": ["EMG", "Snare Trap"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures/EmplacedMachinegunSnareTrap.png"
+        },
+        "Huber Lariat 120mm": {
+            "rows": [135, 209],
+            "nicknames": ["Lariat", "120 gun", "Huber Lariat 120mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures/ArtilleryLariat.png"
+        },
+        "Material Pallet": {
+            "rows": [136, 210],
+            "nicknames": ["pallet", "Material Pallet"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures/MaterialPallet.png"
+        },
+        "Resource Container": {
+            "rows": [137, 211],
+            "nicknames": ["resource container", "resource"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures/ContainerMaterial.png"
+        },
+        "Shipping Container": {
+            "rows": [138, 212],
+            "nicknames": ["shipping", "shipping container"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures/ContainerCrate.png"
+        },
+        "Liquid Container": {
+            "rows": [139, 213],
+            "nicknames": ["liquid", "liquid container", "banana"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures/FuelContainer.png"
+        },
+        "Maintenance Supplies": {
+            "row": 141,
+            "nicknames": ["msupp", "msupps", "Maintenance Supplies"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Supplies/SuppliesMaintenance.png"
+        },
+        "Basic Materials": {
+            "row": 142,
+            "nicknames": ["bmats", "basic materials", "basic"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/MaterialBasic.png"
+        },
+        "Explosive Powder": {
+            "row": 143,
+            "nicknames": ["emats", "explosive", "explosive powder"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/MaterialExplosive.png"
+        },
+        "Heavy Explosive Powder": {
+            "row": 144,
+            "nicknames": ["hemats", "heavy explosive", "heavy explosive powder", "he mats"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/MaterialHeavyExplosive.png"
+        },
+        "Refined Materials": {
+            "row": 145,
+            "nicknames": ["rmats", "refined", "refined materials"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/MaterialRefined.png"
+        },
+        "Dunne Leatherback 2a": {
+            "row": 147,
+            "nicknames": ["armored truck", "leatherback", "2a", "Dunne Leatherback 2a"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/TruckLeatherback.png"
+        },
+        "Dunne Landrunner 12c": {
+            "row": 148,
+            "nicknames": ["offroad truck", "dunne landrunner 12c", "12c", "landrunner"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/TruckLandrunner.png"
+        },
+        "Dunne Dousing Engine 3r": {
+            "row": 149,
+            "nicknames": ["fire truck", "firetruck", "fire engine", "Dousing", "Dousing Engine", "3r", "Dunne Dousing Engine 3r"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/TruckAmbulanceFireDunne.png"
+        },
+        "O’Brien V.113 Gravekeeper": {
+            "row": 150,
+            "nicknames": ["O’Brien V.113", "O’Brien V.113 Gravekeeper", "Gravekeeper", "bonecar", "boneac"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/ACBonesaw.png"
+        },
+        "O’Brien V.121 Highlander": {
+            "row": 151,
+            "nicknames": ["O’Brien V.121 Highlander", "O’Brien V.121", "Highlander", "TAC"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/ACTracked.png"
+        },
+        "O’Brien V.130 Wild Jack": {
+            "row": 152,
+            "nicknames": ["Flame AC", "Wildjack", "O’Brien V.130 Wild Jack", "O’Brien V.130", "Wild Jack"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/ACFlame.png"
+        },
+        "O’Brien V.101 Freeman": {
+            "row": 153,
+            "nicknames": ["O’Brien V.101 Freeman", "O’Brien V.101", "Freeman", "HAC"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/ACHeavy.png"
+        },
+        "Drummond Spitfire 100d": {
+            "row": 154,
+            "nicknames": ["Spitfire", "Drummond Spitfire 100d", "100d", "MGLuv"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/LightUtilitySpitfire.png"
+        },
+        "Drummond Loscann 55c": {
+            "row": 155,
+            "nicknames": ["duck car", "duckboat", "duck boat", "loscan", "55c", "Drummond Loscann 55c", "loscann", "aluv"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/LightUtilityDuckJeep.png"
+        },
+        "Duncan’s Coin 20mm": {
+            "row": 156,
+            "nicknames": ["coin", "FATR", "FART", "Duncan’s Coin 20mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/FieldATRCoin.png"
+        },
+        "Niska-Rycker Mk. IX Skycaller": {
+            "row": 157,
+            "nicknames": ["Skycaller", "Niska-Rycker Mk. IX Skycaller"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/HalfTrackRocket.png"
+        },
+        "Niska Mk. II Blinder": {
+            "row": 158,
+            "nicknames": ["Blinder", "Niska Mk. II Blinder"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/HalfTrackAntiTank.png"
+        },
+        "King Jester Mk. I-1": {
+            "row": 159,
+            "nicknames": ["king jester", "King Jester Mk. I-1", "rocket scout tank", "jester"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/ScoutTankJester.png"
+        },
+        "Niska Mk. III Scar Twin": {
+            "row": 160,
+            "nicknames": ["scar twin", "twin scar", "scartwin", "Niska Mk. III Scar Twin"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/HalfTrackLMG.png"
+        },
+        "Rycker 4/3-F Wasp Nest": {
+            "row": 161,
+            "nicknames": ["wasp nest", "wasp", "Rycker 4/3-F Wasp Nest"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/FieldRocketLauncher.png"
+        },
+        "King Gallant Mk. II": {
+            "row": 162,
+            "nicknames": ["gallant", "king gallant", "30mm scout", "30mm ST", "King Gallant Mk. II"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/ScoutTankGallant.png"
+        },
+        "Balfour Rampart 68mm": {
+            "row": 163,
+            "nicknames": ["HV68", "Rampart", "Balfour Rampart 68mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/FieldAntiTankHeavy.png"
+        },
+        "Rooster - Tumblebox": {
+            "row": 164,
+            "nicknames": ["tumblebox"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/TrailerLargeItem.png"
+        },
+        "Rooster - Lamploader": {
+            "row": 165,
+            "nicknames": ["lamploader"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/TrailerFuel.png"
+        },
+        "Cnute Cliffwrest": {
+            "row": 166,
+            "nicknames": ["cnute", "criffwrest", "heavy truck", "Cnute Cliffwrest"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/TruckHeavyCliffwrest.png"
+        },
+        "Noble Firebrand Mk. XVII": {
+            "row": 167,
+            "nicknames": ["FTD", "flame htd", "Firebrand", "Noble Firebrand Mk. XVII"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/TankDestroyerFlame.png"
+        },
+        "Devitt Ironhide Mk. IV": {
+            "row": 168,
+            "nicknames": ["Ironhide", "Devitt Ironhide Mk. IV"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/LightTankIronhide.png"
+        },
+        "Devitt-Caine Mk. IV MMR": {
+            "row": 169,
+            "nicknames": ["MLT", "Devitt-Caine Mk. IV MMR", "Caine"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/LightTankMortar.png"
+        },
+        "Silverhand Chieftain - Mk. VI": {
+            "row": 170,
+            "nicknames": ["Chieftain", "chief"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/AssaultTankChieftain.png"
+        },
+        "Gallagher Outlaw Mk. II": {
+            "row": 171,
+            "nicknames": ["Outlaw", "Gallagher Outlaw Mk. II"],  
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/CruiserTankOutlaw.png"
+        },
+        "Gallagher Highwayman Mk. III": {
+            "row": 172,
+            "nicknames": ["highwayman", "hwm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/CruiserTankHighwayman.png"
+        },
+        "Gallagher Thornfall Mk. VI": {
+            "row": 173,
+            "nicknames": ["bonelaw", "thornfall"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/CruiserTankThornfall.png"
+        },
+        "Silverhand Lordscar - Mk. X": {
+            "row": 174,
+            "nicknames": ["Lordscar", "STD"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/AssaultTankLordscar.png"
+        },
+        "Balfour Stockade 75mm": {
+            "row": 175,
+            "nicknames": ["Stockade"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/FieldCannonSuper.png"
+        }
+    },
+
+    "Colonial": {
+        "Dusk ce.III": {
+            "row": 6,
+            "nicknames": ["Dusk", "Dusk ceIII"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/ARDusk.png"
+        },
+        "7.92mm": {
+            "row": 7,
+            "nicknames": ["7.92 mm", "7.92", "792"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/AmmoRifle792.png"
+        },
+        "Catara mo.II": {
+            "row": 8,
+            "nicknames": ["Catara", "Catara moII"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/MGCatara.png"
+        },
+        "KRN886-127 Gast Machine Gun": {
+            "row": 9,
+            "nicknames": ["KRN886", "Gast Machine Gun"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/MGGast.png"
+        },
+        "Bomastone Grenade": {
+            "row": 10,
+            "nicknames": ["Bomastone", "Boma"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/GrenadeBomastone.png"
+        },
+        "Cometa T2-9": {
+            "row": 11,
+            "nicknames": ["Cometa", "Cometa T2-9", "Revolver", "T2-9"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/PistolRevolver.png"
+        },
+        ".44": {
+            "row": 12,
+            "nicknames": [".44", "44", "Revolver Ammo"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/AmmoPistol44.png"
+        },
+        "Argenti r.II Rifle": {
+            "row": 13,
+            "nicknames": ["Argenti", "Argenti rII"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/RifleArgenti.png"
+        },
+        "Catena rt.IV Auto-Rifle": {
+            "row": 14,
+            "nicknames": ["Catena", "Catena Auto-Rifle"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/RifleCatena.png"
+        },
+        "Volta r.I Repeater": {
+            "row": 15,
+            "nicknames": ["Volta", "Volta rI", "repeater"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/RifleVolta.png"
+        },
+        "Fuscina pi.I": {
+            "row": 16,
+            "nicknames": ["Fuscina", "Fuscina piI"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/RifleFuscina.png"
+        },
+        "KRR2-790 Omen": {
+            "row": 17,
+            "nicknames": ["Omen", "KRR2 Omen", "KRR2"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/RifleOmen.png"
+        },
+        "KRR3-792 Auger": {
+            "row": 18,
+            "nicknames": ["Auger", "KRR3 Auger", "Sniper"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/RifleSniperAuger.png"
+        },
+        "7.62mm": {
+            "row": 19,
+            "nicknames": ["7.62 mm", "7.62", "762"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/AmmoRifle762.png"
+        },
+        "KRF1-750 Dragonfly": {
+            "row": 20,
+            "nicknames": ["Shotgun", "KRF1-750 Dragonfly", "Dragonfly", "KRF1-750", "KRF1", "Dragonfly Shotgun"],    
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/Shotgun.png"
+        },
+        "Buckshot": {
+            "row": 21,
+            "nicknames": ["Buckshot", "buck", "shotgun ammo"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/AmmoBuckshot.png"
+        },
+        "The Pitch Gun mc.V": {
+            "row": 22,
+            "nicknames": ["Pitch Gun", "Pitch mcV"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/SMGPitch.png"
+        },
+        "Lionclaw mc.VIII": {
+            "row": 23,
+            "nicknames": ["Lionclaw", "Lionclaw mcVIII"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/SMGLionclaw.png"
+        },
+        "9mm": {
+            "row": 24,
+            "nicknames": ["9 mm", "9mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/AmmoSMG9.png"
+        },
+        "PT-815 Smoke Grenade": {
+            "row": 25,
+            "nicknames": ["PT-815", "Smoke Grenade", "Smoke"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/GrenadeSmoke.png"
+        },
+        "Green Ash Grenade": {
+            "row": 26,
+            "nicknames": ["Green Ash", "Gas"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/GrenadeGas.png"
+        },
+        "12.7mm": {
+            "row": 27,
+            "nicknames": ["12.7 mm", "12.7", "127"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/SmallArms/AmmoMG127.png"
+        },
+        "Eleos Infantry Dagger": {
+            "row": 29,
+            "nicknames": ["Dagger", "Eleos Dagger", "sword", "shank"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Facility/MeleeSword.png"
+        },
+        "'Typhon' ra.XII": {
+            "row": 30,
+            "nicknames": ["Typhon", "Typhon raXII"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/ATRifleTripod.png"
+        },
+        "'Quickhatch' Rt.I":{
+            "row": 31,
+            "nicknames": ["Quickhatch", "Quickhatch RtI", "Rt 1", "Rt.1", "Rt.I"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Facility/ATRQuickhatch.png"
+        }, 
+        "'Dawn' Ve.II":{
+            "row": 32,
+            "nicknames": ["Dawn", "Dawn VeII", "Ve 2", "Ve.2", "Ve.II"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Facility/ATRDawn.png"
+        },
+        "20mm": {
+            "row": 33,
+            "nicknames": ["20 mm", "20mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/AmmoAT20.png"
+        },
+        "Venom c.II 35": {
+            "row": 34,
+            "nicknames": ["Venom", "Venom cII 35"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/ATVenom.png"
+        },
+        "Bane 45": {
+            "row": 35,
+            "nicknames": ["Bane", "Bane 45"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/ATBane.png"
+        },
+        "AP/RPG": {
+            "row": 36,
+            "nicknames": ["AP", "AP RPG", "AT/RPG", "AP/RPG"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/AmmoATDirect.png"
+        },
+        "ARC/RPG": {
+            "row": 37,
+            "nicknames": ["ARC", "ARC RPG"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/AmmoATIndirect.png"
+        },
+        "Molten Wind v.II Flame Torch": {
+            "row": 38,
+            "nicknames": ["Molten Wind", "Flame Torch", "Flamethrower"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/FlamethrowerMoltenWind.png"
+        },
+        "KLG901-2 Lunaire F": {
+            "row": 39,
+            "nicknames": ["Lunaire", "KLG901-2"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/GrenadeLauncher.png"
+        },
+        "Mounted Fissura gd.I": {
+            "row": 40,
+            "nicknames": ["Fissura", "Mounted Fissura"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/GrenadeLauncherTripod.png"
+        },
+        "Tremola Grenade GPb-1": {
+            "row": 41,
+            "nicknames": ["Tremola", "Tremola Grenade"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/GrenadeTremola.png"
+        },
+        "Lamentum mm.IV": {
+            "row": 42,
+            "nicknames": ["Lamentum", "Lamentum mmIV"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/MGLamentum.png"
+        },
+        "Daucus isg.III": {
+            "row": 43,
+            "nicknames": ["Daucus", "Daucus isgIII", "ISG"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/InfantrySupportGun.png"
+        },
+        "30mm": {
+            "row": 44,
+            "nicknames": ["30 mm", "30mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/AmmoShell30.png"
+        },
+        "Cremari Mortar": {
+            "row": 45,
+            "nicknames": ["Cremari", "Cremari Mortar", "Mortar", "Mortar Tube", "hand mortar"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/Mortar.png"
+        },
+        "Flare Mortar Shell": {
+            "row": 46,
+            "nicknames": ["Flare Mortar", "Flare Shell"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/AmmoMortarFlare.png"
+        },
+        "Shrapnel Mortar Shell": {
+            "row": 47,
+            "nicknames": ["Shrapnel Mortar", "Shrapnel Shell"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/AmmoMortarShrapnel.png"
+        },
+        "Mortar Shell": {
+            "row": 48,
+            "nicknames": ["Mortar Shell"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/AmmoMortarHE.png"
+        },
+        "Incendiary Mortar Shell": {
+            "row": 49,
+            "nicknames": ["Incendiary Shell", "Incendiary Mortar"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Facility/AmmoMortarIncendiary.png"
+        }, 
+        "Ignifist 30": {
+            "row": 50,
+            "nicknames": ["Ignifist", "Ignifist 30"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/ATIgnifist.png"
+        },
+        "Mammon 91-b": {
+            "row": 51,
+            "nicknames": ["Mammon", "Mammon 91b", "HE Grenade"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/GrenadeHE.png"
+        },
+        "Anti-Tank Sticky Bomb": {
+            "row": 52,
+            "nicknames": ["Sticky Bomb", "Anti-Tank Bomb", "Sticky"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/GrenadeATSticky.png"
+        },
+        "RPG": {
+            "row": 53,
+            "nicknames": ["RPG"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/AmmoRPG.png"
+        }, 
+        "150mm": {
+            "row": 55,
+            "nicknames": ["150", "150mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyMunitions/AmmoShell150.png"
+        },
+        "120mm": {
+            "row": 56,
+            "nicknames": ["120", "120mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyMunitions/AmmoShell120.png"
+        },
+        "250mm": {
+            "row": 57,
+            "nicknames": ["250", "250mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyMunitions/AmmoShell250.png"
+        },
+        "94.5mm": {
+            "row": 58,
+            "nicknames": ["94.5", "94.5mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Facility/AmmoShell945.png"
+        },
+        "75mm": {
+            "row": 59,
+            "nicknames": ["75", "75mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Facility/AmmoShell75.png"
+        },
+        "68mm": {
+            "row": 60,
+            "nicknames": ["68", "68mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyMunitions/AmmoShell68.png"
+        },
+        "40mm": {
+            "row": 61,
+            "nicknames": ["40", "40mm"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyMunitions/AmmoShell40.png"
+        },
+        "Barbed Wire": {
+            "row": 63,
+            "nicknames": ["barbed wire"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityBarbedWire.png"
+        },
+        "Binoculars": {
+            "row": 64,
+            "nicknames": ["binos", "binocs", "binoculars"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityBinoculars.png"
+        },
+        "Havoc Charge": {
+            "row": 65,
+            "nicknames": ["havoc charge", "havoc"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityHavocCharge.png"
+        },
+        "“Molten Wind” v.II Ammo": {
+            "row": 66,
+            "nicknames": ["flamethrower ammo", "molten wind ammo", "flame ammo"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/AmmoFlamethrowerMoltenWind.png"
+        },
+        "Listening Kit": {
+            "row": 67,
+            "nicknames": ["LK", "listening kit"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityListeningKit.png"
+        },
+        "Metal Beam": {
+            "row": 68,
+            "nicknames": ["metal beam"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityMetalBeam.png"
+        },
+        "Radio Backpack": {
+            "row": 69,
+            "nicknames": ["radio backpack", "backpack"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityRadioBackpack.png"
+        },
+        "Sandbag": {
+            "row": 70,
+            "nicknames": ["sandbag"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilitySandbag.png"
+        },
+        "Havoc Charge Detonator": {
+            "row": 71,
+            "nicknames": ["havoc charge detonator", "havoc detonator", "detonator"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityHavocDetonator.png"
+        },
+        "Hydra’s Whisper": {
+            "row": 72,
+            "nicknames": ["hydra", "hydra's whisper"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityHydrasWhisper.png"
+        },
+        "Shovel": {
+            "row": 73,
+            "nicknames": ["shovel"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityShovel.png"
+        },
+        "Sledge Hammer": {
+            "row": 74,
+            "nicknames": ["sledge", "hammer", "sledge hammer"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilitySledgeHammer.png"
+        },
+        "Abisme AT-99": {
+            "row": 75,
+            "nicknames": ["Abisme AT-99", "mine", "landmine"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityATMine.png"
+        },
+        "Crow's Foot Mine": {
+            "row": 76,      
+            "nicknames": ["Crow's Foot Mine", "Anti-Infantry Mine", "AI Mine", "Infantry Mine", "AP Mine"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityInfantryMine.png"
+        },
+        "Tripod": {
+            "row": 77,
+            "nicknames": ["tripod"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityTripod.png"
+        },
+        "Windosck": {
+            "row": 78,
+            "nicknames": ["windsock"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityWindSock.png"
+        },
+        "Wrench": {
+            "row": 79,
+            "nicknames": ["wrench"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityWrench.png"
+        },
+        "Water Bucket": {
+            "row": 80,
+            "nicknames": ["bucket", "Water Bucket"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityBucket.png"
+        },
+        "Buckhorn CCQ-18": {
+            "row": 81,
+            "nicknames": ["Buckhorn", "CCQ-18", "Bayonet", "Bayo"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityBayonet.png"
+        },
+        "Gas Mask": {
+            "row": 82,
+            "nicknames": ["Gasmask", "Gas Mask"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityGasMask.png"
+        },
+        "Gas Mask Filter": {
+            "row": 83,
+            "nicknames": ["Gas Mask Filter", "Filters", "Filter"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityGasFilter.png"
+        },
+        "Radio": {
+            "row": 84,
+            "nicknames": ["radio"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Utility/UtilityRadio.png"
+        },
+        "Bandages": {
+            "row": 86,
+            "nicknames": ["Bandage", "Bandages"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Medical/MedicalBandages.png"
+        },
+        "First Aid Kit": {
+            "row": 87,
+            "nicknames": ["First Aid", "First Aid Kit"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Medical/MedicalAidKit.png"
+        },
+        "Trauma Kit": {
+            "row": 88,
+            "nicknames": ["Trauma", "Trauma Kit"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Medical/MedicalTraumaKit.png"
+        },
+        "Blood Plasma": {
+            "row": 89,
+            "nicknames": ["Plasma", "Blood Plasma"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Medical/MedicalPlasma.png"
+        },
+        "Soldier Supplies": {
+            "row": 90,
+            "nicknames": ["Supplies", "Soldier Supplies"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Medical/MedicalSoldierSupplies.png"
+        },
+        "Velian Flak Vest": {
+            "row": 92,
+            "nicknames": ["Flak Vest", "Velian Flak Vest"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms/UniformArmourVest.png"
+        },
+        "Fabri Rucksack": {
+            "row": 93,
+            "nicknames": ["Rucksack", "Fabri Rucksack", "egineer uni", "engineer"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms/UniformEngineerRucksack.png"
+        },
+        "Grenadier’s Baldric": {
+            "row": 94,
+            "nicknames": ["Grenadier's Baldric", "Baldric", "grenade uniform"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms/UniformGrenadeBaldric.png"
+        },
+        "Medic Fatigues": {
+            "row": 95,
+            "nicknames": ["Medic Fatigues", "Medic uniform", "medic"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms/UniformMedicFatigues.png"
+        },
+        "Officialis’ Attire": {
+            "row": 96,
+            "nicknames": ["Officialis' Attire", "Officialis Attire", "larp uni", "larp uniform"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms/UniformOfficerAttire.png"
+        },
+        "Legionary’s Oilcoat": {
+            "row": 97,
+            "nicknames": ["Legionary's Oilcoat", "Oilcoat", "rain"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms/UniformRainOilcoat.png"
+        },
+        "Recon Camo": {
+            "row": 98,
+            "nicknames": ["Recon Camo", "Recon Camouflage", "partisan uni", "partisan uniform", "partisan"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms/UniformScoutCamo.png"
+        },
+        "Heavy Topcoat": {
+            "row": 99,
+            "nicknames": ["Heavy Topcoat", "Topcoat", "snow"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms/UniformSnowTopcoat.png"
+        },
+        "Tankman’s Coveralls": {
+            "row": 100,
+            "nicknames": ["Tankman's Coveralls", "Coveralls", "tanker uniform", "tank uni"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Uniforms/UniformTankCoveralls.png"
+        },
+        "R-12 - “Salus” Ambulance": {
+            "rows": [102, 173],
+            "nicknames": ["Salus Ambulance", "R-12 Ambulance", "Salus", "Ambulance"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/TruckAmbulanceSalus.png"
+        },
+        "T3 “Xiphos”": {
+            "rows": [103, 174],
+            "nicknames": ["Xiphos", "T3 Xiphos", "Armored Car", "AC"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/ACMGC.png"
+        },
+        "R-15 - “Chariot”": {
+            "rows": [104, 175],
+            "nicknames": ["Chariot", "R-15 Chariot"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/TruckBusChariot.png"
+        },
+        "AA-2 \"Battering Ram\"": {
+            "rows": [105, 176],
+            "nicknames": ["Battering Ram", "AA-2", "FAT"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/FieldAntiTankBatteringRam.png"
+        },
+        "G40 “Sagittarii”": {
+            "rows": [106, 177],
+            "nicknames": ["Sagittarii", "G40 Sagittarii", "FMG"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/FieldMachinegunSagittarii.png"
+        },
+        "BMS - Packmule Flatbed": {
+            "rows": [107, 178],
+            "nicknames": ["Packmule Flatbed", "Packmule", "flatbed"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/TruckFlatbed.png"
+        },
+        "HH-a “Javelin”": {
+            "rows": [108, 179],
+            "nicknames": ["Javelin", "HH-a Javelin", "half track", "ht"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/HalfTrackJavelin.png"
+        },
+        "AB-8 “Acheron”": {
+            "rows": [109, 180],
+            "nicknames": ["Acheron", "AB-8", "LPC"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/APCAcheron.png"
+        },
+        "120-68 “Koronides” Field Gun": {
+            "rows": [110, 181],
+            "nicknames": ["Koronides Field Gun", "120-68 Koronides", "120 gun"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/ArtilleryKoronides.png"
+        },
+        "H-5 ”Hatchet”": {
+            "rows": [111, 182],
+            "nicknames": ["Hatchet", "H-5 Hatchet", "Light Tank", "LT"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/LightTankHatchet.png"
+        },
+        "90T-v \"Nemesis\"": {            
+            "rows": [112, 183],
+            "nicknames": ["Nemesis", "90T-v Nemesis"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/AssaultTankNemesis.png"
+        },
+        "86K-a “Bardiche”": {
+            "rows": [113, 184],
+            "nicknames": ["Bardiche", "86K-a Bardiche", "bard"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/AssaultTankBardiche.png"
+        },
+        "85K-b “Falchion”": {
+            "rows": [114, 185],
+            "nicknames": ["Falchion", "85K-b Falchion", "mpt"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/AssaultTankFalchion.png"
+        },
+        "HC-2 ”Scorpion”": {
+            "rows": [115, 186],
+            "nicknames": ["Scorpion", "HC-2", "HC-2 Scorpion", "IST"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/SiegeTankMG.png"
+        },
+        "03MM “Caster”": {
+            "rows": [116, 187],
+            "nicknames": ["Caster", "03MM Caster", "motorcycle", "bike"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/MotorcycleCaster.png"
+        },
+        "RR-3 “Stolon” Tanker": {
+            "rows": [117, 188],
+            "nicknames": ["Stolon Tanker", "RR-3 Stolon"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/TruckFuelStolon.png"
+        },
+        "UV-05a “Argonaut”": {
+            "rows": [118, 189],
+            "nicknames": ["Argonaut", "UV-05a Argonaut"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/LightUtilityVehicleArgonaut.png"
+        },
+        "T12 “Actaeon” Tankette": {
+            "rows": [119, 190],
+            "nicknames": ["Actaeon Tankette", "T12 Actaeon", "tankette"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/TanketteActaeon.png"
+        },
+        "R-1 Hauler": {
+            "rows": [120, 191],
+            "nicknames": ["R-1 Hauler", "Hauler", "Truck", "Logi Truck"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/TruckHauler.png"
+        },
+        "R-5 “Atlas” Hauler": {
+            "rows": [121, 192],
+            "nicknames": ["Atlas Hauler", "R-5 Atlas", "Dump truck"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/TruckDumpAtlas.png"
+        },
+        "Rooster - Junkwagon": {
+            "rows": [122, 193],
+            "nicknames": ["Junkwagon", "Rooster Junkwagon"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/TrailerResource.png"
+        },
+        "BMS - Aquatipper": {
+            "rows": [123, 194],
+            "nicknames": ["Aquatipper", "BMS Aquatipper", "barge"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/ShipBarge.png"
+        },
+        "BMS - Ironship": {
+            "rows": [124, 195],
+            "nicknames": ["Ironship", "BMS Ironship", "freighter"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/ShipFreighter.png"
+        },
+        "Type C - “Charon”": {
+            "rows": [125, 196],
+            "nicknames": ["Charon", "Type C Charon", "gunboat"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/ShipGunboatCharon.png"
+        },
+        "BMS - Class 2 Mobile Auto-Crane": {
+            "rows": [126, 197],
+            "nicknames": ["Crane", "auto-crane"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/Crane.png"
+        },
+        "BMS - Universal Assembly Rig": {
+            "rows": [127, 198],
+            "nicknames": ["CV", "construction vehicle", "assembly rig"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/ConstructionVehicle.png"
+        },
+        "Concrete Mixer": {
+            "rows": [129, 200],
+            "nicknames": ["Mixer", "Concrete Mixer"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures/ConcreteMixer.png"
+        },
+        "50-500 “Thunderbolt” Cannon": {
+            "rows": [130, 201],
+            "nicknames": ["Thunderbolt Cannon", "50-500 Thunderbolt", "150 gun"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures/ArtilleryThunderbolt.png"
+        },
+        "DAE 1o-3 “Polybolos”": {
+            "rows": [131, 202],
+            "nicknames": ["Polybolos", "DAE 1o-3 Polybolos", "BEAT"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures/EmplacedAntiTankARC.png"
+        },
+        "DAE 1b-2 “Serra”": {
+            "rows": [132, 203],
+            "nicknames": ["Serra", "DAE 1b-2 Serra", "EMG"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures/EmplacedMachinegunSerra.png"
+        },
+        "Material Pallet": {
+            "rows": [133, 204],
+            "nicknames": ["Pallet", "Material Pallet"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures/MaterialPallet.png"
+        },
+        "Resource Container": {
+            "rows": [134, 205],
+            "nicknames": ["Resource Container", "resource"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures/ContainerMaterial.png"
+        },
+        "Shipping Container": {
+            "rows": [135, 206],
+            "nicknames": ["Shipping Container", "shipping"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures/ContainerCrate.png"
+        },
+        "Liquid Container": {
+            "rows": [136, 207],
+            "nicknames": ["Liquid Container", "liquid", "banana"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Structures/FuelContainer.png"
+        },
+        "Maintenance Supplies": {
+            "row": 138,
+            "nicknames": ["msupp", "msupps", "Maintenance Supplies"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Supplies/SuppliesMaintenance.png"
+        },
+        "Basic Materials": {
+            "row": 139,
+            "nicknames": ["bmats", "basic materials", "basic"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/MaterialBasic.png"
+        },
+        "Explosive Powder": {
+            "row": 140,
+            "nicknames": ["emats", "explosive", "explosive powder"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/MaterialExplosive.png"
+        },
+        "Heavy Explosive Powder": {
+            "row": 141,
+            "nicknames": ["hemats", "heavy explosive", "heavy explosive powder", "he mats"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/MaterialHeavyExplosive.png"
+        },
+        "Refined Materials": {
+            "row": 142,
+            "nicknames": ["rmats", "refined", "refined materials"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/MaterialRefined.png"
+        },
+        "R-5b “Sisyphus” Hauler": {
+            "row": 144,
+            "nicknames": ["Sisyphus Hauler", "R-5b Hauler", "speed truck"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/TruckSisyphus.png"
+        },
+        "R-9 “Speartip” Escort": {
+            "row": 145,
+            "nicknames": ["Speartip Escort", "R-9 Escort"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/TruckSpeartip.png"
+        },
+        "R-17 “Retiarius” Skirmisher": {
+            "row": 146,
+            "nicknames": ["Retiarius Skirmisher", "R-17 Skirmisher", "Katyusha"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/TruckRetiarius.png"
+        },
+        "R-12b - “Salva” Flame Truck": {
+            "row": 147,
+            "nicknames": ["Salva Flame Truck", "R-12b Flame Truck", "fire truck", "fire engine"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/TruckAmbulanceSalva.png"
+        },
+        "AU-A150 Taurine Rigger": {
+            "row": 148,
+            "nicknames": ["Taurine Rigger", "AU-A150", "rigger", "taurine", "heavy truck"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/TruckHeavyRigger.png"
+        },
+        "00MS “Stinger”": {
+            "row": 149,
+            "nicknames": ["Stinger", "00MS Stinger", "MG bike"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/MotorcycleStinger.png"
+        },
+        "UV-5c “Odyssey”": {
+            "row": 150,
+            "nicknames": ["Odyssey", "UV-5c"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/LightUtilityVehicleOdyssey.png"
+        },
+        "UV-24 “Icarus”": {
+            "row": 151,
+            "nicknames": ["Icarus", "UV-24", "jihad jeep", "RPJEEP"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/LightUtilityVehicleIcarus.png"
+        },
+        "T5 “Percutio”": {
+            "row": 152,
+            "nicknames": ["Percutio", "T5 Percutio", "ATAC"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/ACAntiTankRifle.png"
+        },
+        "T8 “Gemini”": {
+            "row": 153,
+            "nicknames": ["Gemini", "T8 Gemini", "RPG AC"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/ACRPG.png"
+        },
+        "T13 “Deioneus” Rocket Battery": {
+            "row": 154,
+            "nicknames": ["Deioneus Rocket Battery", "T13 Rocket Battery", "rocket tankette"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/TanketteDeioneus.png"
+        },
+        "T14 “Vesta” Tankette": {
+            "row": 155,
+            "nicknames": ["Vesta Tankette", "T14 Tankette", "flame tankette"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/TanketteVesta.png"
+        },
+        "T20 “Ixion” Tankette": {
+            "row": 156,
+            "nicknames": ["Ixion Tankette", "T20 Tankette", "30mm tankette"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/TanketteIxion.png"
+        },
+        "AB-11 “Doru”": {
+            "row": 157,
+            "nicknames": ["Doru", "AB-11", "APC"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/APCDoru.png"
+        },
+        "HH-b “Hoplite”": {
+            "row": 158,
+            "nicknames": ["Hoplite", "HH-b"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/HalfTrackHoplite.png"
+        },
+        "HH-d “Peltast”": {
+            "row": 159,
+            "nicknames": ["Peltast", "HH-d", "MHT", "Mortar Half Track"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/HalfTrackPeltast.png"
+        },
+        "Rooster - Tumblebox": {
+            "row": 160,
+            "nicknames": ["Tumblebox", "Rooster Tumblebox"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/TrailerLargeItem.png"
+        },
+        "Rooster - Lamploader": {
+            "row": 161,
+            "nicknames": ["Lamploader", "Rooster Lamploader"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/TrailerFuel.png"
+        },
+        "GA6 “Cestus”": {
+            "row": 162,
+            "nicknames": ["Cestus", "GA6 Cestus", "FATR", "FART"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/FieldATRCestus.png"
+        },
+        "40-45 “Smelter”": {
+            "row": 163,
+            "nicknames": ["Smelter", "40-45 Smelter", "hv40"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/FieldCannonHeavy.png"
+        },
+        "945g “Stygian Bolt”": {
+            "row": 164,
+            "nicknames": ["Stygian Bolt", "945g Bolt", "styg", "stygian"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/FieldAntiTankSuper.png"
+        },
+        "H-8 “Kranesca”": {
+            "row": 165,
+            "nicknames": ["Kranesca", "H-8"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/LightTankKranesca.png"
+        },
+        "H-10 “Pelekys”": {
+            "row": 166,
+            "nicknames": ["Pelekys", "H-10", "LTD"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/LightTankAntiTank.png"
+        },
+        "H-19 “Vulcan”": {
+            "row": 167,
+            "nicknames": ["Vulcan", "H-19", "flame lt"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/LightTankVulcan.png"
+        },
+        "HC-7 “Ballista”": {
+            "row": 168,
+            "nicknames": ["Ballista", "HC-7", "HC-7 Ballista"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/Vehicles/SiegeTankBallista.png"
+        },
+        "85K-a “Spatha”": {
+            "row": 169,
+            "nicknames": ["Spatha", "85K-a"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/AssaultTankSpatha.png"
+        },
+        "85V-g 'Talos'": {
+            "row": 170,
+            "nicknames": ["Talos", "85V-g Talos"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/AssaultTankTalos.png"
+        },
+        "86K-c “Ranseur”": {
+            "row": 171,
+            "nicknames": ["Ranseur", "86K-c Ranseur", "quadiche"],
+            "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/AssemblyStation/AssaultTankRanseur.png"
+        }
+    }
+
+}
