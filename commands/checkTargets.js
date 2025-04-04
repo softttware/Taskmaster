@@ -256,7 +256,7 @@ module.exports = (client) => {
                 }
 
                 // Check for train shipments
-                const hasTrainShipments = await checkAndSendTrainNotification(responseChannel);
+                const hasTrainShipments = await checkAndSendTrainNotification(client.channels.cache.get(logisticsWorkshopId));
 
                 if (hasContentToSend || hasTrainShipments) {
                     const announceMsg = "# <:HM1:1290670807508455434> Production update and requirements <:mpf:1256002991715258413>";
