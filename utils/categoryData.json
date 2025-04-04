@@ -2,17 +2,17 @@
     "Warden":{
         "Categories":{
             "Small Arms":{ "start": 6, "end": 29},
-            "Heavy Arms":{"start": 31, "end": 54},
-            "Heavy Munitions":{"start": 56, "end": 62},
-            "Utility":{"start": 64, "end": 86},
-            "Medical":{"start": 88, "end": 92},
-            "Uniforms":{"start": 94, "end": 101},
-            "Vehicles (Crated)": {"start": 103, "end": 129},
-            "Structures (Crated)": {"start": 131, "end": 139},
-            "Materials":{"start": 141, "end": 145},
-            "Facility Vehicles":{"start": 147, "end": 174},
-            "Vehicles (Uncrated)":{"start": 176, "end": 202},
-            "Structures (Uncrated)":{"start": 204, "end": 212}
+            "Heavy Arms":{"start": 31, "end": 56},
+            "Heavy Munitions":{"start": 58, "end": 64},
+            "Utility":{"start": 66, "end": 89},
+            "Medical": {"start": 91, "end": 95},
+            "Uniforms": {"start": 97, "end": 104},
+            "Vehicles (Crated)": {"start": 106, "end": 132},
+            "Structures (Crated)": {"start": 134, "end": 142},
+            "Materials": {"start": 144, "end": 148},
+            "Facility Vehicles": {"start": 150, "end": 177},
+            "Vehicles (Uncrated)": {"start": 179, "end": 205},
+            "Structures (Uncrated)": {"start": 207, "end": 215}
         }
     },
     "Colonial":{
