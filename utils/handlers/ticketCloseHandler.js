@@ -2,7 +2,7 @@ const { EmbedBuilder, ButtonBuilder, ButtonStyle, ChannelType, PermissionsBitFie
 require('dotenv').config();
 
 module.exports = async (interaction, identifier, messageId, threadId, reason) => {
-    const requiredRoles = process.env.requiredRoles; 
+    const requiredRoles = process.env.requiredRoles ? process.env.requiredRoles.split(',') : [];
     const memberRoles = interaction.member.roles.cache;
     const logChannel = await interaction.guild.channels.fetch(process.env.ticketLogChannelId);
 
