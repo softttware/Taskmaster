@@ -12,9 +12,9 @@ module.exports = (client) => {
       const user = interaction.user;
       const channel = interaction.channel;
       const threadId = channel?.id;
-      const requiredRoles = process.env.requiredRoles; 
+      const requiredRoles = process.env.requiredRoles ? process.env.requiredRoles.split(',') : []; 
       const memberRoles = interaction.member?.roles.cache || new Map();
-      const hasPermission = requiredRoles.some(roleId => memberRoles.has(roleId));
+      const hasPermission = requiredRoles.length === 0 || requiredRoles.some(roleId => memberRoles.has(roleId));
 
       try {
         const [prefix, action, identifier] = customId.split('_');
