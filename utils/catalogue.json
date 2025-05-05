@@ -158,7 +158,7 @@
         },
         "Carnyx Anti-Tank Rocket Launcher": {
             "row": 38,
-            "nicknames": ["AT Launcher", "Carnyx", "AP launcher"],
+            "nicknames": ["AT Launcher", "Carnyx", "AP launcher", "Carnyx Anti-Tank Rocket Launcher"],
             "thumbnail": "https://defiesm1.github.io/FoxholeLogiSheet/icons/ProductionIcons/HeavyArms/ATCarnyx.png"
         },
         "AP/RPG": {
